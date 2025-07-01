@@ -32,7 +32,6 @@ An Aviator-style Android game where players can fly a plane, bet on its crash po
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots or GIFs of your app here to make your repo visually appealing.)*
 
 ---
 
